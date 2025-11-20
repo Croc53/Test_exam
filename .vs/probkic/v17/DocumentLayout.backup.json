@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\222909071099-7\\source\\repos\\probkic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7989EF-6C69-4598-84B0-1418CB359E89}|probkic\\probkic.csproj|c:\\users\\222909071099-7\\source\\repos\\probkic\\probkic\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7989EF-6C69-4598-84B0-1418CB359E89}|probkic\\probkic.csproj|solutionrelative:probkic\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7989EF-6C69-4598-84B0-1418CB359E89}|probkic\\probkic.csproj|c:\\users\\222909071099-7\\source\\repos\\probkic\\probkic\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E7989EF-6C69-4598-84B0-1418CB359E89}|probkic\\probkic.csproj|solutionrelative:probkic\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7989EF-6C69-4598-84B0-1418CB359E89}|probkic\\probkic.csproj|c:\\users\\222909071099-7\\source\\repos\\probkic\\probkic\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7989EF-6C69-4598-84B0-1418CB359E89}|probkic\\probkic.csproj|solutionrelative:probkic\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7989EF-6C69-4598-84B0-1418CB359E89}|probkic\\probkic.csproj|c:\\users\\222909071099-7\\source\\repos\\probkic\\probkic\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7989EF-6C69-4598-84B0-1418CB359E89}|probkic\\probkic.csproj|solutionrelative:probkic\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7989EF-6C69-4598-84B0-1418CB359E89}|probkic\\probkic.csproj|c:\\users\\222909071099-7\\source\\repos\\probkic\\probkic\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E7989EF-6C69-4598-84B0-1418CB359E89}|probkic\\probkic.csproj|solutionrelative:probkic\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7989EF-6C69-4598-84B0-1418CB359E89}|probkic\\probkic.csproj|c:\\users\\222909071099-7\\source\\repos\\probkic\\probkic\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7989EF-6C69-4598-84B0-1418CB359E89}|probkic\\probkic.csproj|solutionrelative:probkic\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\222909071099-7\\source\\repos\\probkic\\probkic\\LoginForm.cs",
+              "RelativeDocumentMoniker": "probkic\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\222909071099-7\\source\\repos\\probkic\\probkic\\LoginForm.cs",
+              "RelativeToolTip": "probkic\\LoginForm.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAUwEQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:53:15.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\222909071099-7\\source\\repos\\probkic\\probkic\\LoginForm.cs",
+              "RelativeDocumentMoniker": "probkic\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\222909071099-7\\source\\repos\\probkic\\probkic\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "probkic\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:52:49.27Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\222909071099-7\\source\\repos\\probkic\\probkic\\DB.cs",
+              "RelativeDocumentMoniker": "probkic\\DB.cs",
+              "ToolTip": "C:\\Users\\222909071099-7\\source\\repos\\probkic\\probkic\\DB.cs",
+              "RelativeToolTip": "probkic\\DB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:45:07.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\222909071099-7\\source\\repos\\probkic\\probkic\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "probkic\\FormMain.Designer.cs",
+              "ToolTip": "C:\\Users\\222909071099-7\\source\\repos\\probkic\\probkic\\FormMain.Designer.cs",
+              "RelativeToolTip": "probkic\\FormMain.Designer.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAkwHEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:38:59.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\222909071099-7\\source\\repos\\probkic\\probkic\\FormMain.cs",
+              "RelativeDocumentMoniker": "probkic\\FormMain.cs",
+              "ToolTip": "C:\\Users\\222909071099-7\\source\\repos\\probkic\\probkic\\FormMain.cs",
+              "RelativeToolTip": "probkic\\FormMain.cs",
+              "ViewState": "AgIAAJ0BAAAAAAAAAAAkwMoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:08:02.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\222909071099-7\\source\\repos\\probkic\\probkic\\FormMain.cs",
+              "RelativeDocumentMoniker": "probkic\\FormMain.cs",
+              "ToolTip": "C:\\Users\\222909071099-7\\source\\repos\\probkic\\probkic\\FormMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "probkic\\FormMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:07:58.407Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
